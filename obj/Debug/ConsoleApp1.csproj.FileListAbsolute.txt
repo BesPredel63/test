@@ -1,0 +1,7 @@
+F:\BV121\Lesson\L_89_14.04.2022\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+F:\BV121\Lesson\L_89_14.04.2022\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+F:\BV121\Lesson\L_89_14.04.2022\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+F:\BV121\Lesson\L_89_14.04.2022\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+F:\BV121\Lesson\L_89_14.04.2022\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\BV121\Lesson\L_89_14.04.2022\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+F:\BV121\Lesson\L_89_14.04.2022\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
